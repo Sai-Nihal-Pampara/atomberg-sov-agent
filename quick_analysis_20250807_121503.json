@@ -1,0 +1,44 @@
+{
+  "total_mentions": {
+    "atomberg": 64,
+    "crompton": 11,
+    "havells": 13,
+    "orient": 13,
+    "usha": 4,
+    "bajaj": 5
+  },
+  "positive_mentions": {
+    "atomberg": 14,
+    "crompton": 2,
+    "havells": 2,
+    "orient": 3,
+    "usha": 1,
+    "bajaj": 2
+  },
+  "negative_mentions": {
+    "atomberg": 1,
+    "crompton": 1,
+    "havells": 0,
+    "orient": 0,
+    "usha": 0,
+    "bajaj": 0
+  },
+  "sov_percentages": {
+    "atomberg": 58.18181818181818,
+    "crompton": 10.0,
+    "havells": 11.818181818181818,
+    "orient": 11.818181818181818,
+    "usha": 3.6363636363636362,
+    "bajaj": 4.545454545454546
+  },
+  "positive_sov": {
+    "atomberg": 58.333333333333336,
+    "crompton": 8.333333333333332,
+    "havells": 8.333333333333332,
+    "orient": 12.5,
+    "usha": 4.166666666666666,
+    "bajaj": 8.333333333333332
+  },
+  "total_comments": 1282,
+  "videos_analyzed": 50
+}
